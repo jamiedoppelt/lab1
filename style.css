@@ -1,0 +1,54 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 60px;
+    line-height: 60px;
+    padding: 20px;
+    background-color: plum;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+
+h1 {
+    margin:0;
+
+}
+
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #000000;
+    margin-left: 20px; 
+}
+
+.main{
+    display: flex;
+    min-height: 500px;
+}
+
+.content{
+    width: 70%;
+    background-color: gainsboro;
+    
+}
+
+.sidebar{
+    width: 30%;
+    background-color: dimgray;
+    color: white;
+    
+}
+
+p { margin: 20px;}
