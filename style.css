@@ -52,3 +52,18 @@ ul li a{
 }
 
 p { margin: 20px;}
+
+.blog-post{
+    margin: 10px;
+    background-color: white;
+    padding: 10px;
+    border: lightgrey;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.photo{
+    margin: 0px 10px 10px 0px;
+    float: left;
+}
+
